@@ -75,6 +75,6 @@ Special thanks to **Osama Elzero** for his valuable front-end tutorials.
 ## 📬 Contact
 
 * LinkedIn: (https://www.linkedin.com/in/hazem-wageh/)
-* GitHub: (add your profile)
+* GitHub: (https://github.com/Hazem-Wageh)
 
 ---
